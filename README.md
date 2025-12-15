@@ -15,10 +15,11 @@ We don't just write code that works; we write code that lasts. Our development c
 ### 🚀 Active Projects
 * **[SCRD](https://github.com/solid-logic-studios/scrd):** A modern squash scoring and tracking platform.
 * **Markdown Tools:** Utilities for seamless content conversion and rendering.
+* **[WanderRate](https://www.wanderate.com):** A currency conversion and journey tracking application
 
 ### 💻 Tech Stack
 * **Languages:** TypeScript, JavaScript (Node.js)
-* **Backend:** Express.js, RESTful APIs
+* **Backend:** Express.js, Python, RESTful APIs
 * **Frontend:** React, Modern Web Technologies
 * **Infrastructure:** Cloud-Native Architecture, CI/CD pipelines
 
