@@ -28,4 +28,4 @@ We don't just write code that works; we write code that lasts. Our development c
 Interested in our work or looking for collaboration?
 * **Location:** Ballarat / Melbourne, VIC
 * **Email:** [contact@solidlogicstudios.com.au](mailto:contact@solidlogicstudios.com.au)
-* **Website:** [solidlogicstudios.com.au](https://solidlogicstudios.com.au) *(Under Construction)*
+* **Website:** [solidlogicstudios.com.au](https://solidlogicstudios.com.au)
