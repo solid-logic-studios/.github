@@ -23,6 +23,7 @@ We don't just write code that works; we write code that lasts. Our development c
 
 ### 🙎 The Team
 Our team consists of highly experienced industry engineers, product owners, SEO/Marketing specialists and UX designers. Each has been entrenched in large firms for decades so have a wealth of experience in delivering high quality results. 
+
 ---
 
 ### 📫 Contact
