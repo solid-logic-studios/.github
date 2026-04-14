@@ -19,6 +19,7 @@ We don't just write code that works; we write code that lasts. Our development c
 * **Backend:** Express.js, Python, RESTful APIs
 * **Frontend:** React, Modern Web Technologies
 * **Infrastructure:** Cloud-Native Architecture, CI/CD pipelines, AI integration, Agents
+* **Supporting:** UX design, Graphics Design, Data Science (including Machine Learning) and Visualisation 
 
 ### 🙎 The Team
 Our team consists of highly experienced industry engineers, product owners, SEO/Marketing specialists and UX designers. Each has been entrenched in large firms for decades so have a wealth of experience in delivering high quality results. 
